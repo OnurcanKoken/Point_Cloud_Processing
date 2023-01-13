@@ -1,0 +1,4 @@
+Notice that 2 types of registration: local and global.
+Use global registration methods in the case of high angle and/or distance (camera/lidar pose).
+Use local registration methods in the case of low angle and/or distance (camera/lidar pose).
+Its better to combine both, first apply global one and then local one.
