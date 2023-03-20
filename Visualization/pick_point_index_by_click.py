@@ -22,3 +22,6 @@ print(vis.get_picked_points())
 
 # Reference: https://stackoverflow.com/questions/56183844/how-can-we-pick-3d-points-from-point-cloud-data-from-a-pcd-file-using-python
 # access date: 17.02.2023
+
+# for VisualizerWithEditing: https://github.com/isl-org/Open3D/blob/d7341c4373e50054d9dbe28ed84c09bb153de2f8/src/Visualization/Visualizer/VisualizerWithEditing.cpp#L124
+# acess date: 20.03.2023
